@@ -32,19 +32,22 @@ namespace MatrixA
             var aXuatHien = random.Next(3, 5);
             List<int> rows = new List<int>();
             List<int> cols = new List<int>();
+            Dictionary<int , int> map = new Dictionary<int, int>();
+           
             for (int i = 0; i < aXuatHien; i++)
             {
                 var col = random.Next(0, n);
                 var row = random.Next(0, n);
 
-                var findCol = cols.FindIndex(x => x == col);
-                var findRow = rows.FindIndex(x => x == row);
-                if(findCol != -1 && findRow != -1 && (findCol == findRow))
+                var find =  map.FirstOrDefault(x => x.Value == row && x.Key == col).Key;
+                if (find != 0)
                 {
                     aXuatHien++;
                     continue;
                 }
                 arr[col, row] = a;
+                rows.Add(row);
+                cols.Add(col);
             }
             Console.WriteLine("Xuat ra man hinh ma tran ngau nhien");
             Print(arr, n);

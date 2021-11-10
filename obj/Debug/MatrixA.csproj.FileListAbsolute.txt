@@ -5,3 +5,11 @@ C:\Users\ntkie\source\repos\MatrixA\obj\Debug\MatrixA.csproj.AssemblyReference.c
 C:\Users\ntkie\source\repos\MatrixA\obj\Debug\MatrixA.csproj.CoreCompileInputs.cache
 C:\Users\ntkie\source\repos\MatrixA\obj\Debug\MatrixA.exe
 C:\Users\ntkie\source\repos\MatrixA\obj\Debug\MatrixA.pdb
+D:\STTT\ThiTuyen\ThuatToan\MatrixA3to5\bin\Debug\MatrixA.exe.config
+D:\STTT\ThiTuyen\ThuatToan\MatrixA3to5\bin\Debug\MatrixA.exe
+D:\STTT\ThiTuyen\ThuatToan\MatrixA3to5\bin\Debug\MatrixA.pdb
+D:\STTT\ThiTuyen\ThuatToan\MatrixA3to5\obj\Debug\MatrixA.csproj.AssemblyReference.cache
+D:\STTT\ThiTuyen\ThuatToan\MatrixA3to5\obj\Debug\MatrixA.csproj.SuggestedBindingRedirects.cache
+D:\STTT\ThiTuyen\ThuatToan\MatrixA3to5\obj\Debug\MatrixA.csproj.CoreCompileInputs.cache
+D:\STTT\ThiTuyen\ThuatToan\MatrixA3to5\obj\Debug\MatrixA.exe
+D:\STTT\ThiTuyen\ThuatToan\MatrixA3to5\obj\Debug\MatrixA.pdb
