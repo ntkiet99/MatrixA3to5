@@ -1,0 +1,7 @@
+C:\Users\ntkie\source\repos\MatrixA\bin\Debug\MatrixA.exe.config
+C:\Users\ntkie\source\repos\MatrixA\bin\Debug\MatrixA.exe
+C:\Users\ntkie\source\repos\MatrixA\bin\Debug\MatrixA.pdb
+C:\Users\ntkie\source\repos\MatrixA\obj\Debug\MatrixA.csproj.AssemblyReference.cache
+C:\Users\ntkie\source\repos\MatrixA\obj\Debug\MatrixA.csproj.CoreCompileInputs.cache
+C:\Users\ntkie\source\repos\MatrixA\obj\Debug\MatrixA.exe
+C:\Users\ntkie\source\repos\MatrixA\obj\Debug\MatrixA.pdb
